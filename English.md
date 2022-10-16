@@ -39,12 +39,34 @@ have made numerous breakthroughs in quantum technologies, hight-speed rail, the 
 ### Maybelline launches collaboration for sweet tooth consumers
 
 > Maybelline New York, the world-renowned makeup brand, launched its collaboration with m&m's, the chocolate brand on Aug 20.
-* renowned:famous and respected
-a renowned author
- renowned as sth
- renowned for sth
+* renowned:famous and respected</br>
+a renowned author</br>
+ renowned as sth </br>
+ renowned for sth </br>
+
+the month:
+January-Jan. February-Feb. March-Mar. April-Apr. May-May June-Jun. July-Jul. August-Aug. September-Sep. October-Oct. November-Nov. December-Dec.
+the days:
+Monday-Mon. Tuesday-Tues. Wednesday-Wed. Thursday-Thur. Friday-Fri. Saturday-Sat. Sunday-Sun.
+
+
 
 > This collaboration tries to hit the heart of young consumer with highly recognizable colors and cool, yet fun, interactivate installations.
 * try to hit the heart of young consumer
+
+### OCT launches rural education program
+> Domestic theme park player Overseas Chinese Town has rolled out a rural education program that will cover music,culture,performance,learning trips and painting to children in villages across the country
+* roll out a program</br>
+* cover xxx,xxx, and xxx</br>
+* across the country
+
+> The program contains severals parts. The cultural education part <u>is aimed to promote the development of quality education,</u> and the development of the beautiful countryside part is to help the overall revitalization of the countryside.
+* quality education: 素质教育</br>
+* revital/revitaliza: make sth more stronger,more lively...
+
+> The nature classroom plan will help <u>promote the construction of the ecological civilization, while intangible cultrual heritage education is to attract the local cultural genes.</u>
+* promote the construction of the ecological civilization
+* intangible cultural heritage
+
 
 
