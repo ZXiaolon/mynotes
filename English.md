@@ -39,5 +39,12 @@ have made numerous breakthroughs in quantum technologies, hight-speed rail, the 
 ### Maybelline launches collaboration for sweet tooth consumers
 
 > Maybelline New York, the world-renowned makeup brand, launched its collaboration with m&m's, the chocolate brand on Aug 20.
+* renowned:famous and respected
+a renowned author
+ renowned as sth
+ renowned for sth
 
-* re
+> This collaboration tries to hit the heart of young consumer with highly recognizable colors and cool, yet fun, interactivate installations.
+* try to hit the heart of young consumer
+
+
