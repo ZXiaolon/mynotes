@@ -33,6 +33,11 @@ sci-tech:科学技术  high-tech:高科技
 
 vanguard-the leader of a movement in society
 
-have made numerous breakthroughs in quantum technologies, hight-speed rail, the Beidou Navigation Satellite System, the C919 passenger jet, 5G telecommunications and other fields of strategic significance.
+have made numerous breakthroughs in quantum technologies, hight-speed rail, the Beidou Navigation Satellite System, the C919 passenger jet, 5G and other fields of strategic significance.
 
 ## 2022年10月16日
+### Maybelline launches collaboration for sweet tooth consumers
+
+> Maybelline New York, the world-renowned makeup brand, launched its collaboration with m&m's, the chocolate brand on Aug 20.
+
+* re
