@@ -226,6 +226,19 @@ $ docker run -itd --name test2 --network test-net ubuntu /bin/bash
 docker run -it -rm -h host_ubuntu --dns=114.114.114.114 --dns-search=test.com ubuntu
 ```
 
+### Docker Compose
+>Compose 是用于定义和运行多容器 Docker 应用程序的工具。通过 Compose，您可以使用 **YML 文件**来配置应用程序需要的**所有服务**。然后，使用一个命令，就可以从 YML 文件配置中创建并启动所有服务。
+
+**Compose使用三步骤**
+* 使用Dockerfile定义应用程序的**环境**。
+* 使用docker-compose.yml定义构成应用程序的**服务**，这样他们可以在隔离环境中使用。
+* 最后，执行docker-compose up命令来启动整个应用程序。
+
+### Docker Machine
+> Docker Machine 是一种可以让您在**虚拟主机**上安装 Docker 的工具，并可以使用 docker-machine 命令来管理主机。
+Docker Machine 也可以集中管理所有的 docker 主机，比如快速的给 100 台服务器安装上 docker。
+
+
 
 
 
