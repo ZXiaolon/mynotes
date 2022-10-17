@@ -71,3 +71,49 @@ Monday-Mon. Tuesday-Tues. Wednesday-Wed. Thursday-Thur. Friday-Fri. Saturday-Sat
 
 
 
+## October 17th, 2022
+### Nation leads way with renewable energy
+
+> a survey among China Daily's oversea readers <u>ahead of the 20th National Congress of the Commnunist Party of China shows that the nation's ecological progress, economy, diplomacy, science and technology, and the Belt and Road Initiative</u> are among some of the most closely observed issues. China Daily is publishing a series of special articals to offer reader <u>an in-depth look at these topics.</u>
+* the 20th National Congress of the Communist Party of China;
+congress:代表大会
+* the Belt and Road Initiative:一带一路
+* in-depth:very thorough and detailed;</br>
+    an in-depth discussion/study/research
+
+
+> Supported by **full supply chains** and rebust policy measures, China has achieve **leapfrog development** in renewable energy in recent years, with its installed capacity ranking top globally.
+* Supported ...;
+* with ...;
+* full supply chains and robust policy;
+* **achieve leapfrog development-跨越式发展;**
+
+
+> During the 14th Five-Year plan period, China's renewable energy generation capacity is expected to account for more than 50 percent of the total, and the generation capacity for wind and solar power will be double,further cementing the nation's role as a global leader in renewable energy capacity growth.
+* the 14 Five-Year plan;
+* account for:占比;
+  account for/make up/comprise;
+* cement:to make a relationship, an agreement, etc. stronger;
+  cement the alliance between the two countries.
+
+> State-owned grid operators have also made efforts to ensure renewables are consumed, rather than wasted.
+* state-owned
+* operator:
+    - a person who operates a machine;
+    - a person or company that runs a business;
+
+> the principal/primary source ofo the country
+
+> rapid momentum and huge potential.
+* potential:
+    - adj:potential customers;a potential prime minister;
+    - n:the possibility of sth;
+
+### China's economic achievements in the past decade
+> People can not only reflect on China's economic achievements in numbers in the past decade but also witness China's economic development in a higher quality, more efficient, sustainable and secure way.
+* not only,... but also.
+* reflect: to think carefully and deeply about sth;
+     - She was left to reflect on the implications of her decision;
+* witness:n&v: 
+
+> Visitor can see the progress China has made in **many various industries/fields** such as chip making, automobile manufacturing, robot development and space exploration.
