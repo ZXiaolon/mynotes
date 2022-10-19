@@ -33,6 +33,9 @@ sci-tech:科学技术  high-tech:高科技
 
 vanguard-the leader of a movement in society
 
+
+## test
+
 have made numerous breakthroughs in quantum technologies, hight-speed rail, the Beidou Navigation Satellite System, the C919 passenger jet, 5G and other fields of strategic significance.
 
 ## 2022年10月16日
