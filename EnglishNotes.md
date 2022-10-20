@@ -32,9 +32,32 @@ at the opening session of the xxx
 > Chinese not only increased our interest in the language but also broaded our horizons.
 
 > The Chinese language is more than just academic knowledge, but also a pathway to <u>understainding</u> China and its people, such as the culture, food, customs and history.
-> 
 
 
+## [Anti-narcotics musical marks Chinese People's Police Day](https://www.globaltimes.cn/page/202101/1212344.shtml)
+
+October 20,2022
+* narcotics: n & adj
+	- drug
+	- making you sleep
+
+> Based on a true story of a seriouly injured narcotics police who was awakened from a coma by his wife, the drama Rebrith made its first Beijing debut on Wednesday, day before China's first Chinese People's Polices Day on Sunday.
+* Based on xxx
+* made its first debut on xx
+	- debut: n & v
+	- the first public appearance
+	- present a new product
+
+* adapt
+	- v.t: to change sth in order to make it suitable for a new use or situation
+	- to change a book so that it can be made into a play, film
+* adept
+	- good at doing sth
+* adopt
+	- to take sb else's child into your family
+	- to start to use a particular method
+	- to formally accept a suggestion: to adopt a resolution
+	
 
 
 
