@@ -59,7 +59,22 @@ October 20,2022
 	- to formally accept a suggestion: to adopt a resolution
 	
 
+## [Omanis revive memory of village swallowed by desert](https://www.globaltimes.cn/page/202101/1212331.shtml)
+Oct 20, 2022
+* Omani: a person from Oman
+* revive:v
+	- become conscious or healthy and strong again
+	The flowers soon reviveed in water
+	- to make sth start being used or done again
+	- to produce again a play
 
+
+* nostalgia:
+	- n[u]: a feeling of sadness when you think of happy times in the past
+	a sense nostalgia;
+	She is filled with nostalgia for her own college days.
+	- adj:
+	nostalgia memories
 
 
 
