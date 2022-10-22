@@ -21,7 +21,7 @@ In fact, stress can give our motivation to make the thing best, and tell us that
 
 ## 自写
 继续完善
-84.5/91.5 8/13
+85.5/91.5 7/13
 From my own perspective,the stress is a double edge. Sometimes, the right amount of stress makes us more efficient, healthier and safer. But too much stress may have the opposite effect and seriously affect our physical and mental health. In today's society, we can not get rid of stress, therefore we must learn to address it.
 
 The majority of us for the most part are prone to think the stress always is bad. But this opinion is not entirely correct. To cope with the issue, we need to correctly understand the pressure and find the source of the pressure.
