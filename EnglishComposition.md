@@ -37,9 +37,21 @@ After you read the passages in this unit, you will have an idea of the crowdedne
 
 3\. Conclusion.
 
+## 高铁历史
 
 
 
+## 截取[China daily](https://www.chinadaily.com.cn/a/202210/25/WS635733cfa310fd2b29e7e520.html)
+中国高铁发展可以参考：知乎、知网、China daily、global times等文章。
+Rail travel can mean different things to different generations of Chinese people. Seniors may be reminded of days and nights spent lining up at railway stations to get tickets, and noisy compartments filled with passengers. Middle-aged people may possibly have a mixed image - slow but romantic green-painted trains and fast, shining, modern bullet trains.
+The younger generation, those age 15 and younger, may regard the railway as a normal convenient form of travel: no longer mysterious, rather a simple fact of daily life.
+The 15 years of development of China's high-speed railway sector have made travel easier, faster, fancier and more convenient.
+The media has called the nation's high-speed rail network one of four new great developments of modern China, along with mobile phone payment, online shopping and shared bikes.
+In most cases, the system is cheaper than air travel and much faster than regular trains.
+The network now stretches 40,000 kilometers, accounting for more than two-thirds of the total length of such railways worldwide. By the end of last year, more than 80 percent of counties had access to rail services, and the high-speed network covered 93 percent of cities, with a population of more than 500,000 people.
+The network runs from the humid southern coastal areas to the frozen regions of the north.
+According to China State Railway Group, the national railway operator, the country's high-speed trains run at the highest speed of any such services in the world and have the greatest variety of operating scenarios. China has also developed the most comprehensive technologies and gained the richest railway management experience in the world.
+The high-speed railway is an important symbol of transportation modernization, which is known for being safe, reliable, fast, convenient, energy-saving and environmentally friendly, while providing large-scale transportation capacity. With its vast territory and a large population, China, now deepening industrialization and urbanization, is embracing high-speed rail at just the right time to great significance.
 
 
 
