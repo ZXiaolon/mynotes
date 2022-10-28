@@ -53,6 +53,7 @@ The network runs from the humid southern coastal areas to the frozen regions of 
 According to China State Railway Group, the national railway operator, the country's high-speed trains run at the highest speed of any such services in the world and have the greatest variety of operating scenarios. China has also developed the most comprehensive technologies and gained the richest railway management experience in the world.
 The high-speed railway is an important symbol of transportation modernization, which is known for being safe, reliable, fast, convenient, energy-saving and environmentally friendly, while providing large-scale transportation capacity. With its vast territory and a large population, China, now deepening industrialization and urbanization, is embracing high-speed rail at just the right time to great significance.
 
+[1].https://www.chinadaily.com.cn/a/202208/31/WS630f5f4da310fd2b29e7544c.html
 
 
 
