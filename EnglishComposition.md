@@ -27,6 +27,16 @@ Stress frequently comes from fear of the unknown. For example, we don't know wh
 
 I agree those points.When we pursuit something meaningful for us, the process will not be so painful, and even some happiness. If the things we seek are not we love, we will have a version, even pressure. So it means the act of setting and pursuing a variety of goals that are meaningful to you is associated with less stress.
 
+## Unit4
+
+After you read the passages in this unit, you will have an idea of the crowdedness and efficiency of the “green-skinned” trains in the past. Combined with what you know about the bullet trains, you are asked to write an essay by following the outline:
+
+1\. An introduction to the development of train transportation in China.
+
+2\. The significance of the advanced train transportation.
+
+3\. Conclusion.
+
 
 
 
