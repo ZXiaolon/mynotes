@@ -58,6 +58,15 @@ The high-speed railway is an important symbol of transportation modernization, w
 [3] https://epaper.chinadaily.com.cn/a/202208/12/WS62f59f75a3109375516ee58f.html
 
 
+## Unit5
+**My view on double reduction**
+
+Known as "double reduction" reducing students' homework and after-school tutoring pressure, the new policy has issued by the general offices of the Education Bureau aims at ensure education equality and alleviate students' duration burden.From my own perspective, this policy is a double edge sword and will make a significant influence on the social.
+
+On the one hand, this policy will promote the education quality that making everyone . In the meantime, it will reduce the burden of family education expenses and relieve the academic pressure of their students, therefore, that students have more time to engage in their love extra-curricular activities. This effective measure will promote the quality-oriented education and improve the quality of education.On the other hand, the policy may have an adverse effect on education training industry that will make a growing number of people unemployment. Meanwhile, the student with self-discipline deficiency will be eliminated easily.
+
+In a word, the policy made the education system more and more perfect, though there are still some inadequacy.
+
 
 
 
