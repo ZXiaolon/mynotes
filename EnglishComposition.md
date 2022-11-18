@@ -1,4 +1,9 @@
 # English Composition
+
+## Unit2
+**Translation**
+As young people have smartphones, computers, social accounts, and the convenience of the Internet, their discipline is getting worse. At the same time, young people spend a mass of time on making up their minds to go online.In the course of the Covid-19 period, the network has become a comfortable place, not only because it is the only channel for people to communicate with the outside world, but also as the tenacity of technology and the wide range of network systems make it feasible for people to connect with each other, especially at this incredibly fragile moment. In the eyes of quite a few people, this is an almost illusory miracle.But this makes me believe that there will be more great creations in the future. Although we can't describe these creations yet, they will assist mankind out of the dark time in an unimaginable way when necessary.
+
 ## Unit3
 Stress is everywhere in our life. Stress is often considered negative. In the passage you have read in this unit, the author wrote: 
 
