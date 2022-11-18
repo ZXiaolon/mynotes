@@ -79,6 +79,13 @@ In a word, the policy made the education system more and more perfect, though th
 ## Unit8
 **Based on your knowledge of the life of the people with disabilities and your reading of this passage, you are asked to write about people with disabilities in China. First, it is about the challenges they face in their life. Second, what the society can do to help improve their life. Finally, imagine the life of people with disabilities in the future thanks to the development of AI and the care and concern from the society.**
 
+**11/15  82.5/91.5**
+The disabilities refer to people with physical or mental disability that different from usual individuals. Out of various reasons, they can not live like normal people that may result in their sense of inferiority. Meanwhile, the deficiency of their bodies may bring many great inconveniences in their life too.
+What can we do to do them a favor?
+ Firstly, we should manage to realize their full potential as well as improve inclusion while helping stigma and increase their self-confidence. At the same time, we can do our best to care their inconvenience in life and assist them actively.
+
+One day, there are increasing effective measure and advance technologies to help the people with disability.With the assistance, they can go to everywhere they want and live alone better. What's more, they can live like other people.
+
 
 
 
