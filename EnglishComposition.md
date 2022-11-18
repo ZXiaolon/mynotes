@@ -73,7 +73,11 @@ In a word, the policy made the education system more and more perfect, though th
 
 **14/16  85/80.5  90.5**
 
-In this world of pluralism, academic excellence is no longer the only consideration in quite a few fields. As a result, education must adjust to the rapid development of the world as well as the students. Here are three basic qualities that are required of the youth in the coming years.Firstly, be self - disciplined and maintain long-term learning. With the rapid development of the world, there is increasing knowledge that required us to learn. Though it is not practical to acquire all the knowledge and skills, we still stick to learning some new skills and refresh our mind.In the next place, we should learn to collaborate and communicate with others. In today's social, we can get to success by ourselves, so we have to cooperate with others to maximize our full potential. It is essential for us to learn to how to communicate with others and express our ideas clearly in the process of cooperation.
+In this world of pluralism, academic excellence is no longer the only consideration in quite a few fields. As a result, education must adjust to the rapid development of the world as well as the students. Here are three basic qualities that are required of the youth in the coming years.
+
+Firstly, be self - disciplined and maintain long-term learning. With the rapid development of the world, there is increasing knowledge that required us to learn. Though it is not practical to acquire all the knowledge and skills, we still stick to learning some new skills and refresh our mind.
+
+In the next place, we should learn to collaborate and communicate with others. In today's social, we can get to success by ourselves, so we have to cooperate with others to maximize our full potential. It is essential for us to learn to how to communicate with others and express our ideas clearly in the process of cooperation.
 
 What's more, we should learn to keep optimistic.Currently, the sociality is complex that we were likely to make success, but we always fail in many cases. In this situation, we were likely to depress thought it's a normal situation. So we must be optimistic about the future.
 
