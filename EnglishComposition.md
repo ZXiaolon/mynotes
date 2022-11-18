@@ -69,15 +69,18 @@ In a word, the policy made the education system more and more perfect, though th
 
 
 ## Uint 6
-**In this world of pluralism, academic excellence is no longer the only consideration in many fields. As a result, education must adjust to the rapid development of the world; students have to develop in an all-round way. You are asked to write an essay around 200 words on two or three basic qualities that are required of the youth in the coming years.**
+> In this world of pluralism, academic excellence is no longer the only consideration in many fields. As a result, education must adjust to the rapid development of the world; students have to develop in an all-round way. You are asked to write an essay around 200 words on two or three basic qualities that are required of the youth in the coming years.
 
 
 ## Uint7
-**Suppose you are a youth delegate from a developing country to give a report to the U.N. General Assembly on global warming. In your report, first you are asked to talk about the severe consequence(s) of global warming by giving examples or statistics. Next, you need to offer some measures to curb global warming by talking about what developed countries and developing countries can respectively do.**
+> Suppose you are a youth delegate from a developing country to give a report to the U.N. General Assembly on global warming. In your report, first you are asked to talk about the severe consequence(s) of global warming by giving examples or statistics. Next, you need to offer some measures to curb global warming by talking about what developed countries and developing countries can respectively do.
 
 
 ## Unit8
-**Based on your knowledge of the life of the people with disabilities and your reading of this passage, you are asked to write about people with disabilities in China. First, it is about the challenges they face in their life. Second, what the society can do to help improve their life. Finally, imagine the life of people with disabilities in the future thanks to the development of AI and the care and concern from the society.**
+> Based on your knowledge of the life of the people with disabilities and your reading of this passage, you are asked to write about people with disabilities in China. 
+> First, it is about the challenges they face in their life. 
+> Second, what the society can do to help improve their life.
+> Finally, imagine the life of people with disabilities in the future thanks to the development of AI and the care and concern from the society.
 
 **11/15  82.5/91.5**
 The disabilities refer to people with physical or mental disability that different from usual individuals. Out of various reasons, they can not live like normal people that may result in their sense of inferiority. Meanwhile, the deficiency of their bodies may bring many great inconveniences in their life too.
