@@ -71,7 +71,7 @@ In a word, the policy made the education system more and more perfect, though th
 ## Uint 6
 > In this world of pluralism, academic excellence is no longer the only consideration in many fields. As a result, education must adjust to the rapid development of the world; students have to develop in an all-round way. You are asked to write an essay around 200 words on two or three basic qualities that are required of the youth in the coming years.
 
-**14/16  85/80.5  90.5**
+**10/16  85.5/80.5  90.5**
 
 In this world of pluralism, academic excellence is no longer the only consideration in quite a few fields. As a result, education must adjust to the rapid development of the world as well as the students. Here are three basic qualities that are required of the youth in the coming years.
 
