@@ -1,3 +1,157 @@
+# Mall商城
+
+## 项目简介
+### 需求分析
+
+### 项目架构
+
+### 技术栈
+
+
+## 后端
+### 后端技术简介
+
+
+### Spring
+spring：作为j2ee**轻量级**替代品，配置确实重量级的。通过依赖注入和面向切面编程，使用简单的java对象pojo即可实现ejb的功能。
+
+缺点：配置麻烦，无法保证依赖的兼容性。
+
+##### Spring boot
+
+为了解决spring的缺点springboot应运而生。
+
+springboot的三个核心特征：
+
+-   自动配置
+    
+-   起步依赖
+    
+-   Actuator：监控springboot应用程序内部情况。
+    
+
+##### SpringBoot中常用注解
+
+-   组件相关注解
+    
+    -   @Controller
+        
+    -   @Service
+        
+    -   @Repository
+        
+    -   @Component
+        
+-   依赖注入注解
+    
+    -   @Autowired
+        
+    -   @Resource
+        
+    -   @Qualifier
+        
+    -   @Primary
+        
+-   实例与生命周期相关注解
+    
+    -   @Bean
+        
+    -   @Scope
+        
+    -   @PostConstruct
+        
+    -   @PreDestory
+        
+-   SpringMVC相关注解
+    
+    -   @RequestMapping
+        
+    -   @RequestBody
+        
+    -   @ResponseBody
+        
+    -   @RequestParam
+        
+    -   @PathVariable
+        
+    -   @RequestPart
+        
+    -   @RestController
+        
+    -   @GetMapping
+        
+    -   @PostMapping
+        
+-   配置相关注解
+    
+    -   @Configuration
+        
+    -   @EnableAutoConfiguration
+        
+    -   @ComponentScan
+        
+    -   @SpringBootApplication
+        
+    -   @EnableCaching
+        
+    -   @value
+        
+    -   @ConfigurationProperties
+        
+    -   @Conditional
+        
+-   数据库事务相关注解
+    
+    -   @EnableTransactionManagement
+        
+    -   @Transactional
+        
+-   SpringSecurity注解
+    
+    -   @EnableWebSecurity
+        
+    -   @EnableGlobalMethodSecurity
+        
+-   全局异常处理注解
+    
+    -   @ControllerAdvice
+        
+    -   @ExceptionHandler
+        
+-   AOP相关注解
+    
+    -   @Aspect
+        
+    -   @Before
+        
+    -   @After
+        
+    -   @AfterReturing
+        
+    -   @AfterThrowing
+        
+    -   @Around
+        
+    -   @Pointcut
+        
+-   测试相关注解
+    
+    -   @SpringTest
+        
+    -   @Test
+
+
+
+
+
+
+## 前端
+
+
+## 小程序
+
+
+
 # 图书管理系统开发
 
 摘要：这是一份图书管理系统开发指南
